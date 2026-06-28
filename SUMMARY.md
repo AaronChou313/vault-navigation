@@ -2,9 +2,9 @@
 
 * [README](README.md)
 
-## 惯性导航
+## 惯性导航 <a href="#inertial-navigation" id="inertial-navigation"></a>
 
-* [基础理论](<README (1).md>)
-* [捷联惯性导航](guan-xing-dao-hang/jie-lian-guan-xing-dao-hang.md)
-* [惯导误差](guan-xing-dao-hang/guan-dao-wu-cha.md)
-* [初始对准](guan-xing-dao-hang/chu-shi-dui-zhun.md)
+* [基础理论](inertial-navigation/basic-theories.md)
+* [捷联惯性导航](inertial-navigation/strapdown-inertial-navigation.md)
+* [惯导误差](inertial-navigation/ins-error.md)
+* [初始对准](inertial-navigation/initial-alignment.md)
